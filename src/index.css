@@ -1,0 +1,40 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+#x{
+  background-color: red; 
+}
+
+#a{
+  background-color: seagreen;
+}
+
+#b{
+  background-color: slateblue;
+}
+
+#c{
+  background-color: springgreen;
+}
+
+#d{
+  background-color: turquoise;
+}
+
+#e{
+  background-color: yellow;
+}
+
+#f{
+  background-color: peru;
+}
+
+#g{
+  background-color: yellowgreen;
+}
