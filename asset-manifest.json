@@ -1,20 +1,46 @@
 {
   "files": {
     "main.css": "/dosa/static/css/main.57029d10.chunk.css",
-    "main.js": "/dosa/static/js/main.a3a1ef00.chunk.js",
-    "main.js.map": "/dosa/static/js/main.a3a1ef00.chunk.js.map",
+    "main.js": "/dosa/static/js/main.62b562e6.chunk.js",
+    "main.js.map": "/dosa/static/js/main.62b562e6.chunk.js.map",
     "runtime-main.js": "/dosa/static/js/runtime-main.aacb9933.js",
     "runtime-main.js.map": "/dosa/static/js/runtime-main.aacb9933.js.map",
     "static/js/2.3e96339c.chunk.js": "/dosa/static/js/2.3e96339c.chunk.js",
     "static/js/2.3e96339c.chunk.js.map": "/dosa/static/js/2.3e96339c.chunk.js.map",
     "index.html": "/dosa/index.html",
     "static/css/main.57029d10.chunk.css.map": "/dosa/static/css/main.57029d10.chunk.css.map",
-    "static/js/2.3e96339c.chunk.js.LICENSE.txt": "/dosa/static/js/2.3e96339c.chunk.js.LICENSE.txt"
+    "static/js/2.3e96339c.chunk.js.LICENSE.txt": "/dosa/static/js/2.3e96339c.chunk.js.LICENSE.txt",
+    "static/media/Andhra-Vada.f0d43eaf.jpg": "/dosa/static/media/Andhra-Vada.f0d43eaf.jpg",
+    "static/media/Bendakai-Vepudu.d67d2c62.jpg": "/dosa/static/media/Bendakai-Vepudu.d67d2c62.jpg",
+    "static/media/Cafeteria-Set-Up.0659579c.jpg": "/dosa/static/media/Cafeteria-Set-Up.0659579c.jpg",
+    "static/media/Concert-Set-Up.b8b3551f.jpg": "/dosa/static/media/Concert-Set-Up.b8b3551f.jpg",
+    "static/media/Malabar-Parotha.82a0da57.jpg": "/dosa/static/media/Malabar-Parotha.82a0da57.jpg",
+    "static/media/Medhu-Vada.c00b9ddb.jpg": "/dosa/static/media/Medhu-Vada.c00b9ddb.jpg",
+    "static/media/Office-Cafe-Set-Up.54a8ad0a.jpg": "/dosa/static/media/Office-Cafe-Set-Up.54a8ad0a.jpg",
+    "static/media/Onion-Tomato-Uttapam.3320c262.jpg": "/dosa/static/media/Onion-Tomato-Uttapam.3320c262.jpg",
+    "static/media/Peanut-Chutney.58c818b5.jpg": "/dosa/static/media/Peanut-Chutney.58c818b5.jpg",
+    "static/media/Pesarattu-Upma.a6aff03b.jpg": "/dosa/static/media/Pesarattu-Upma.a6aff03b.jpg",
+    "static/media/Residential-Monring-Set-Up.664464f0.jpg": "/dosa/static/media/Residential-Monring-Set-Up.664464f0.jpg",
+    "static/media/Wedding-Party-Set-Up.1d0ff921.jpg": "/dosa/static/media/Wedding-Party-Set-Up.1d0ff921.jpg",
+    "static/media/buffet.bc009a42.jpg": "/dosa/static/media/buffet.bc009a42.jpg",
+    "static/media/bulh-order.392f0824.gif": "/dosa/static/media/bulh-order.392f0824.gif",
+    "static/media/corporate-catering.14a691dc.gif": "/dosa/static/media/corporate-catering.14a691dc.gif",
+    "static/media/dahi-wada.b9bc6aa4.jpg": "/dosa/static/media/dahi-wada.b9bc6aa4.jpg",
+    "static/media/delivery-pickup.845ce828.jpg": "/dosa/static/media/delivery-pickup.845ce828.jpg",
+    "static/media/ganapathi.0d3da4d0.jpg": "/dosa/static/media/ganapathi.0d3da4d0.jpg",
+    "static/media/joyti.0eb17653.jpg": "/dosa/static/media/joyti.0eb17653.jpg",
+    "static/media/order-now.d611ecc8.jpg": "/dosa/static/media/order-now.d611ecc8.jpg",
+    "static/media/party-catering.a02d6cbd.gif": "/dosa/static/media/party-catering.a02d6cbd.gif",
+    "static/media/plain-dosa.f920ccb7.jpg": "/dosa/static/media/plain-dosa.f920ccb7.jpg",
+    "static/media/rava-dosa.dc4abf2e.jpg": "/dosa/static/media/rava-dosa.dc4abf2e.jpg",
+    "static/media/retail-services.1010aa8b.gif": "/dosa/static/media/retail-services.1010aa8b.gif",
+    "static/media/satya.a884d7dc.jpg": "/dosa/static/media/satya.a884d7dc.jpg",
+    "static/media/truck.70e606ed.jpg": "/dosa/static/media/truck.70e606ed.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.aacb9933.js",
     "static/js/2.3e96339c.chunk.js",
     "static/css/main.57029d10.chunk.css",
-    "static/js/main.a3a1ef00.chunk.js"
+    "static/js/main.62b562e6.chunk.js"
   ]
 }
