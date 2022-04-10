@@ -1,5 +1,23 @@
 import React from "react"
 import Navbar from "./Navbar";
+import Delivery from "./delivery-pickup.jpg";
+import Buffet from "./buffet.jpg";
+import Truck from "./truck.jpg";
+import Plaindosa from "./plain-dosa.jpg";
+import Dahiwada from "./dahi-wada.jpg";
+import Oniontomato from "./Onion-Tomato-Uttapam.jpg";
+import Rava from "./rava-dosa.jpg";
+import Medhuvada from "./Medhu-Vada.jpg";
+import Andhravada from "./Andhra-Vada.jpg";
+import Bendakaivada from "./Bendakai-Vepudu.jpg";
+import Pesarattu from "./Pesarattu-Upma.jpg";
+import Malabar from "./Malabar-Parotha.jpg";
+import Peanut from "./Peanut-Chutney.jpg";
+import Wedding from "./Wedding-Party-Set-Up.jpg";
+import Cafeteria from "./Cafeteria-Set-Up.jpg";
+import Concert from "./Concert-Set-Up.jpg";
+import Resi from "./Residential-Monring-Set-Up.jpg";
+import Office from "./Office-Cafe-Set-Up.jpg";
 function Home()
 {
     return(
@@ -9,18 +27,18 @@ function Home()
 <div className="card-deck">
 <div className="card">
 <div className="card-body text-center">
-  <img className="rounded" src="http://www.dosainc.in/images/banners/truck.jpg" />
+  <img className="rounded" src={Truck} />
   
 </div>
 </div>
 <div className="card">
 <div className="card-body text-center">
-  <img className="rounded" src="http://www.dosainc.in/images/banners/delivery-pickup.jpg" />
+  <img className="rounded" src={Delivery} />
  </div>
 </div>
 <div className="card">
 <div className="card-body text-center">
-  <img className="rounded" src="http://www.dosainc.in/images/banners/buffet.jpg" />
+  <img className="rounded" src={Buffet} />
  </div>
 </div>
 </div>
@@ -43,35 +61,35 @@ function Home()
 
         <div className="card">
           <div className="card-body text-center">
-            <img src="http://www.dosainc.in/images/lightbox/plain-dosa.jpg" height="200" width="200"/>
+            <img src={Plaindosa} height="200" width="200"/>
             <p className="card-text"></p>
           </div>
         </div>
 
         <div className="card">
           <div className="card-body text-center">
-            <img src="http://www.dosainc.in/images/lightbox/dahi-wada.jpg" height="200" width="200"/>
+            <img src={Dahiwada} height="200" width="200"/>
             <p className="card-text"></p>
           </div>
         </div>
 
         <div className="card">
           <div className="card-body text-center">
-            <img src="http://www.dosainc.in/images/lightbox/Onion-Tomato-Uttapam.jpg" height="200" width="200"/>
+            <img src={Oniontomato} height="200" width="200"/>
             <p className="card-text"></p>
           </div>
         </div>
 
         <div className="card">
           <div className="card-body text-center">
-            <img src="http://www.dosainc.in/images/lightbox/rava-dosa.jpg" height="200" width="200"/>
+            <img src={Rava} height="200" width="200"/>
             <p className="card-text"></p>
           </div>
         </div>
 
         <div className="card">
           <div className="card-body text-center">
-            <img src="http://www.dosainc.in/images/lightbox/Medhu-Vada.jpg" height="200" width="200"/>
+            <img src={Medhuvada} height="200" width="200"/>
             <p className="card-text"></p>
           </div>
         </div>
@@ -82,35 +100,35 @@ function Home()
 
 <div className="card">
   <div className="card-body text-center">
-    <img src="http://www.dosainc.in/images/lightbox/Andhra-Vada.jpg" height="200" width="200"/>
+    <img src={Andhravada} height="200" width="200"/>
     <p className="card-text"></p>
   </div>
 </div>
 
 <div className="card">
   <div className="card-body text-center">
-    <img src="http://www.dosainc.in/images/lightbox/Bendakai-Vepudu.jpg" height="200" width="200"/>
+    <img src={Bendakaivada} height="200" width="200"/>
     <p className="card-text"></p>
   </div>
 </div>
 
 <div className="card">
   <div className="card-body text-center">
-    <img src="http://www.dosainc.in/images/lightbox/Pesarattu-Upma.jpg" height="200" width="200"/>
+    <img src={Pesarattu} height="200" width="200"/>
     <p className="card-text"></p>
   </div>
 </div>
 
 <div className="card">
   <div className="card-body text-center">
-    <img src="http://www.dosainc.in/images/lightbox/Malabar-Parotha.jpg" height="200" width="200"/>
+    <img src={Malabar} height="200" width="200"/>
     <p className="card-text"></p>
   </div>
 </div>
 
 <div className="card">
   <div className="card-body text-center">
-    <img src="http://www.dosainc.in/images/lightbox/Peanut-Chutney.jpg" height="200" width="200"/>
+    <img src={Peanut} height="200" width="200"/>
     <p className="card-text"></p>
   </div>
 </div>
@@ -121,35 +139,35 @@ function Home()
 
 <div className="card">
   <div className="card-body text-center">
-    <img src="http://www.dosainc.in/images/lightbox/Wedding-Party-Set-Up.jpg" height="200" width="200"/>
+    <img src={Wedding} height="200" width="200"/>
     <p className="card-text"></p>
   </div>
 </div>
 
 <div className="card">
   <div className="card-body text-center">
-    <img src="http://www.dosainc.in/images/lightbox/Cafeteria-Set-Up.jpg" height="200" width="200"/>
+    <img src={Cafeteria} height="200" width="200"/>
     <p className="card-text"></p>
   </div>
 </div>
 
 <div className="card">
   <div className="card-body text-center">
-    <img src="http://www.dosainc.in/images/lightbox/Concert-Set-Up.jpg" height="200" width="200"/>
+    <img src={Concert} height="200" width="200"/>
     <p className="card-text"></p>
   </div>
 </div>
 
 <div className="card">
   <div className="card-body text-center">
-    <img src="http://www.dosainc.in/images/lightbox/Residential-Monring-Set-Up.jpg" height="200" width="200"/>
+    <img src={Resi} height="200" width="200"/>
     <p className="card-text"></p>
   </div>
 </div>
 
 <div className="card">
   <div className="card-body text-center">
-    <img src="http://www.dosainc.in/images/lightbox/Office-Cafe-Set-Up.jpg" height="200" width="200"/>
+    <img src={Office} height="200" width="200"/>
     <p className="card-text"></p>
   </div>
 </div>

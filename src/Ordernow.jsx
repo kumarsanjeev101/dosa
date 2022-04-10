@@ -1,5 +1,6 @@
 import React from "react";
 import Navbar from "./Navbar";
+import Ordernow from "./order-now.jpg";
 function Ordernow()
 {
     return(
@@ -7,7 +8,7 @@ function Ordernow()
             <Navbar/>
             <h1>ORDER NOW</h1>
             <p>Order form for our newly launched menu!</p>
-            <img src="http://www.dosainc.in/images/order-now.jpg"/>
+            <img src={Ordernow}/>
             <br/>
             <br/>
             <form>

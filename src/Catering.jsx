@@ -1,5 +1,9 @@
 import React from "react";
 import Navbar from "./Navbar";
+import Party from "./party-catering.gif";
+import Retail from "./retail-services.gif";
+import Corporate from "./corporate-catering.gif";
+import Bulk from "./bulh-order.gif";
 function Catering()
 {
     return(
@@ -14,7 +18,7 @@ function Catering()
             and 2 fully fitted out base kitchens in Delhi and Gurgaon.</p>
             <br></br>
             <h1 class="display-4">PARTY CATERING</h1>
-            <img src="http://www.dosainc.in/images/banners/party-catering.gif"/>
+            <img src={Party}/>
             <br></br>
             <p>We have become the go to caterers for house warming parties or a havan for wedding or any 
             religious / auspicious occasion. We also specialize in kids birthday parties, as well as 
@@ -23,14 +27,14 @@ function Catering()
             <br></br>
             <h1 class="display-4">RETAIL SERVICES</h1>
             <br></br>
-            <img src="http://www.dosainc.in/images/banners/retail-services.gif"/>
+            <img src={Retail}/>
             <br></br>
             <p>Our trucks are fully mobile kitchens on wheels that serve fresh South Indian food on a 
             retail basis at residential neighbourhoods as well as in company cafeterias. 
             Our live- counters make our food a compelling, must-have experience.</p>
             <h1 class="display-4">CORPORATE CATERING</h1>
             <br></br>
-            <img src="http://www.dosainc.in/images/banners/corporate-catering.gif"/>
+            <img src={Corporate}/>
             <br></br>
             <p>We go to different offices / institutional locations to serve fresh and flavorful 
             food during the weekdays. We specialize in indoor and outdoor Live Counters; 
@@ -39,7 +43,7 @@ function Catering()
             <br></br>
             <h1 class="display-4">BULK ORDER</h1>
             <br></br>
-            <img src="http://www.dosainc.in/images/banners/bulh-order.gif"/>
+            <img src={Bulk}/>
             <br></br>
             <p>For pick up or delivery of a bulk order from one of our locations, 
             please order at least 24 hours in advance to check availability of items 

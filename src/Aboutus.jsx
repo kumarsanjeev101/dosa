@@ -1,5 +1,8 @@
 import React from "react";
 import Navbar from "./Navbar";
+import Ganapathi from "./ganapathi.jpg"
+import Jyoti from "./joyti.jpg"
+import Satya from "./satya.jpg";
 function Aboutus()
 {
     return(
@@ -23,7 +26,7 @@ function Aboutus()
             <div class="card">
             
             <div class="card-body">
-            <img class="rounded-circle" src="http://www.dosainc.in/images/ganapathi.jpg" height="300" width="300"/>
+            <img class="rounded-circle" src={Ganapathi} height="300" width="300"/>
             <p class="card text"><i>Cheif Mentor</i></p>
                 <h4 class="card-title">S. L. Ganapathi</h4>
                 <p class="card-text"> serial entrepreneur and an expert in the field of 
@@ -40,7 +43,7 @@ function Aboutus()
             </div>
             </div>
             <div class="card">
-            <img class="card-img-top" className="rounded-circle" src="http://www.dosainc.in/images/joyti.jpg" height="300" width="300"/>
+            <img class="card-img-top" className="rounded-circle" src={Jyoti} height="300" width="300"/>
             <div class="card-body">
                 <h4 class="card-title">Jyoti Ganapathi</h4>
                 <p class="card text"><i>Founder, CEO</i></p>
@@ -58,7 +61,7 @@ function Aboutus()
             </div>
             </div>
             <div class="card">
-            <img class="card-img-top" className="rounded-circle" src="http://www.dosainc.in/images/satya.jpg" height="300" width="300"/>
+            <img class="card-img-top" className="rounded-circle" src={Satya} height="300" width="300"/>
             <div class="card-body">
                 <h4 class="card-title">Satya Sashikanth Koniki</h4>
                 <p class="card text"><i>Co-founder, COO</i></p>
